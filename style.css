@@ -107,7 +107,62 @@ font-size: 35px;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
+margin-bottom: 30px;
 }
 .skill-item-container{
     display:flex;
+}
+
+.about{
+    color: var(--Dark-01, #181818);
+text-align: center;
+font-family: "Open Sans";
+font-size: 35px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.m{
+   
+width: 1140px;
+height: 550px;
+flex-shrink: 0;
+text-align: center;
+margin: 130px auto;
+max-width: 1140px;
+padding-top: 131px;
+
+
+}
+.y{
+    display: inline-block;
+   
+    /* margin-left:35px; */
+    text-align: center;
+    margin: 20px;
+    margin-top: 30px;
+    
+   
+}
+.pera{
+    margin-top: 30px;
+   
+}
+
+.m{
+   max-width: 827px;
+   height:  288px;
+  
+}
+.mary{
+    color: var(--Dark-02, #474747);
+font-family: "Open Sans";
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 30px;
+}
+.x{
+    margin-bottom: 260px;
 }
